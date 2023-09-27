@@ -1,16 +1,21 @@
-### Hi there 👋
+# Justin Mitchell
 
-<!--
-**justinmitchell341/justinmitchell341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Losing to technology is my biggest pet peeve
 
-Here are some ideas to get you started:
+## Major
+Bachelors of Computer Science in Computer Science with a Certificate of Ux Design and Web Development from Eastern Washington University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+* Java
+* HTMl, CSS, JavaScript
+* Ux/UI Design
+* Web Development(via site building tools e.g. webflow, framer)
+
+#### My Future
+I am intensley interested in the field of Ux/UI Design and Web Development.
+
+##### Hobbies
+* Cooking
+* Video Games
+* Animals
+* Music
