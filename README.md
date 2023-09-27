@@ -18,4 +18,4 @@ Bachelors of Computer Science in Computer Science with a Certificate of Ux Desig
 * Music
 
 ## My Future
-I am intensley interested in the field of Ux/UI Design and Web Development.
+I am intensley interested in the field of Ux/UI Design and Web Development, once I become competent enought, creating games as a hobby is an enticing endavor.
