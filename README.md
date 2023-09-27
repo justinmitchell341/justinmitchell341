@@ -5,17 +5,17 @@
 ## Major
 Bachelors of Computer Science in Computer Science with a Certificate of Ux Design and Web Development from Eastern Washington University
 
-### Skills
+## Skills
 * Java
 * HTMl, CSS, JavaScript
 * Ux/UI Design
 * Web Development(via site building tools e.g. webflow, framer)
 
-#### My Future
-I am intensley interested in the field of Ux/UI Design and Web Development.
-
-##### Hobbies
+## Hobbies
 * Cooking
 * Video Games
 * Animals
 * Music
+
+## My Future
+I am intensley interested in the field of Ux/UI Design and Web Development.
