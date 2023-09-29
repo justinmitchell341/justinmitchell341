@@ -19,3 +19,5 @@ Bachelors of Computer Science in Computer Science with a Certificate of Ux Desig
 
 ## My Future
 I am intensley interested in the field of Ux/UI Design and Web Development, once I become competent enought, creating games as a hobby is an enticing endavor.
+
+<iframe src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe">via GIPHY</a></p>
