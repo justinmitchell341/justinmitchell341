@@ -9,7 +9,7 @@ Bachelors of Computer Science in Computer Science with a Certificate of Ux Desig
 * Java
 * HTMl, CSS, JavaScript
 * Ux/UI Design
-* Web Development(via site building tools e.g. webflow, framer)
+* Web Development(via site building tools e.g. webflow, framer, wordpress)
 
 ## Hobbies
 * Cooking
